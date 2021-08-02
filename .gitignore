@@ -2,3 +2,4 @@ Bencher-Scenarios-TextLevenshteinFlexible-*
 .build
 *~
 nytprof*
+.DS_Store
